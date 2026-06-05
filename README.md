@@ -1,4 +1,4 @@
-<img width="1045" height="540" alt="Screenshot 2026-06-05 012539" src="https://github.com/user-attachments/assets/dbab77e6-abc9-4e82-b2f3-19b8ef91c8d2" />SYNTECXHUB PROJECT 1
+SYNTECXHUB PROJECT 1
 
 TCP Port Scanner Project Report
 Project Title: TCP Port Scanner Using Python

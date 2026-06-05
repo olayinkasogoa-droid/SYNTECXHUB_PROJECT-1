@@ -1,7 +1,9 @@
 SYNTECXHUB PROJECT 1
 
 TCP Port Scanner Project Report
+
 Project Title: TCP Port Scanner Using Python
+
 Introduction
 As part of my cybersecurity internship training, I was assigned the task of developing a TCP Port Scanner using Python. The purpose of this project was to understand how network ports work, learn the basics of socket programming, and gain practical experience in identifying open and closed ports on a target host.
 Project Description
